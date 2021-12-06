@@ -11,4 +11,5 @@ madlib = f"disebuah tempat seorang pangerang {pangeran} tergila2 dengan seorang 
     namun putri raja memberikan syarat untuk membuat {candi} sebanyak {jumlah}"
 
 print("*"*100)
+print("")
 print(madlib)
